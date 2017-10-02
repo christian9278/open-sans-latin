@@ -1,17 +1,17 @@
-# open-sans-v13-latin
+# open-sans-latin
 
 Open-Sans web font package with CSS.
 
 ## Installation
 
 ```
-bower install open-sans-v13-latin --save
+bower install open-sans-latin --save
 ```
 
 ## Usage
 
 ```
-@import "../bower_components/open-sans-v13-latin/css/fonts.css";
+@import "../bower_components/open-sans-latin/css/fonts.css";
 ```
 
 ## Contributing
@@ -24,8 +24,6 @@ bower install open-sans-v13-latin --save
 
 ## History
 
-- v0.0.3: Updated README.md
-- v0.0.2: Moved fonts.css into fonts folder
 - v0.0.1: Initial commit
 
 ## Credits
